@@ -3,10 +3,8 @@ import { RouterModule } from '@angular/router';
 
 @Component({
   standalone: true,
-  selector: 'app-root',
+  selector: 'app-feature',
+  templateUrl: './feature.component.html',
   imports: [RouterModule],
-  templateUrl: './app.component.html',
 })
-export class AppComponent {
-  title = 'younited-credit-app';
-}
+export class FeatureComponent {}
