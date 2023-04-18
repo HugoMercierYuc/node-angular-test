@@ -1,27 +1,24 @@
 # YounitedCreditApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+## Setup terminals
 
-## Development server
+1. Terminal 1 to serve the app
+cd younited-credit-app
+npm i
+npm run start
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+2. Terminal 2 to run the unit tests
+cd younited-credit-app
+npm run test:watch
 
-## Code scaffolding
+## Task 1
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+fix the unit tests
 
-## Build
+## Task 2
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+add a new step address after email
 
-## Running unit tests
+## Task 3
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+add a form so the user can fill his email
