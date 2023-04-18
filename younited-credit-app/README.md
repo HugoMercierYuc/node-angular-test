@@ -15,9 +15,12 @@ npm run test:watch
 
 fix the unit tests
 
+dummy error sur le title
+"should navigate to email" to fix
+
 ## Task 2
 
-add a new step address after email
+add a new step name after email
 
 ## Task 3
 
