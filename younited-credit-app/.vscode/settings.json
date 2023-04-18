@@ -1,0 +1,49 @@
+{
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "project-relative",
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "wallaby.startAutomatically": false,
+  "cSpell.words": [
+    "abtest",
+    "additionalinformations",
+    "addressinvoiceuploadfailed",
+    "AUTOGRANT",
+    "BANKREADER",
+    "BANKREADERDECLARATIVE",
+    "barcelona",
+    "Datalake",
+    "datanotification",
+    "endregion",
+    "Eulerian",
+    "Hotjar",
+    "iban",
+    "IDENTITYCARDIDENTITY",
+    "INVOICEADDRESSPROOF",
+    "jobloss",
+    "nameof",
+    "noabtest",
+    "nofake",
+    "PASSPORTIDENTITY",
+    "secci",
+    "UMBRACO",
+    "younifaker",
+    "Younifaker"
+  ]
+}
